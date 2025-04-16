@@ -1,7 +1,7 @@
 # 🌟 SoulSync - AI Emotional Support 🌟  
 🚀 **An AI-powered emotion analysis tool that provides motivational and psychological support.**  
 
-🔗 **GitHub Repository:** [SoulSync-AIEmotionalSupport](https://github.com/gresaslh/SoulSync-AIEmotionalSupport.git)  
+🔗 **GitHub Repository:** [SoulSync-AIEmotionalSupport](https://github.com/gresasalihi/SoulSync-AIEmotionalSupport.git)  
 
 ## 🛠️ **Requirements**  
 To run SoulSync on your local machine, make sure you have the following installed:  
@@ -15,7 +15,7 @@ To run SoulSync on your local machine, make sure you have the following installe
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/gresaslh/SoulSync-AIEmotionalSupport.git
+git clone https://github.com/gresasalihi/SoulSync-AIEmotionalSupport.git
 cd SoulSync-AIEmotionalSupport
 ```
 
